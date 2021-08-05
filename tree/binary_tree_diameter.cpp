@@ -1,10 +1,10 @@
 /*
-** @Author: Sandeep Thapar
+** @Author: Sangharsh kumar
 **
 ** Find diameter of a binary Tree
 **
 ** For video explanation, please refer to my Youtube channel in the link below:
-** https://www.youtube.com/channel/UCX6rLou1VXXPVsORMVkUryg/videos
+**https://www.youtube.com/channel/UCbnjwwUEyVIIClUMmHPtKPg
 **
 ** Please subscribe to the channel if you find this helpful
 */
